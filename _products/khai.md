@@ -16,21 +16,5 @@ styles:
     color: '#000000'
     image: /images/products/khai/khai.png
 
-[comment]: <> (  - name: Blue)
 
-[comment]: <> (    color: '#39589e')
-
-[comment]: <> (    image: /images/products/deer/blue.jpg)
-
-[comment]: <> (  - name: Clay)
-
-[comment]: <> (    color: '#9c5145')
-
-[comment]: <> (    image: /images/products/deer/clay.jpg)
-
-[comment]: <> (  - name: Cream)
-
-[comment]: <> (    color: '#dfd3c2')
-
-[comment]: <> (    image: /images/products/deer/cream.jpg)
 ---
