@@ -7,9 +7,10 @@ layout: default
 			<div class="product-container">
 				{% include product-styles.html product=page %}
 				<div class="product-details" id="add">
-					<h3>{{ page.name }} - ${{ page.price }}</h3>
+					<h3>{{ page.name }}</h3>
 					{{ page.description_markdown | markdownify }}
 
+					<h4>${{ page.price }}</h4>
 					<div class="button">{% include snipcart-button.html product=page %}</div>
 				</div>
 			</div>
@@ -17,3 +18,4 @@ layout: default
 	</section>
 </div>
 
+<link href="https://cdn.snipcart.com/themes/2.0/base/snipcart.min.css" rel="stylesheet" type="text/css" />

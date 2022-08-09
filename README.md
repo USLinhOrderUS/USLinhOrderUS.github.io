@@ -1,25 +1,23 @@
-## Multilingual E-commerce Jekyll template
+## Fur
 
 E-commerce template for Jekyll. Browse through a [live demo](https://turquoise-rook.cloudvent.net).
 
-This template is based on [Fur](https://github.com/CloudCannon/fur-jekyll-template) by [CloudCannon](http://cloudcannon.com/) and we added multilingual features and customizable categories.
+![Fur template screenshot](images/_screenshot.png)
 
-You can learn more about building stuff on CloudCannon at [CloudCannon Academy](https://learn.cloudcannon.com/).
+Fur was made by [CloudCannon](http://cloudcannon.com/), the Cloud CMS for Jekyll.
 
-> Read full tutorial [here](https://snipcart.com/blog/cms-jekyll-cloud-cannon-multilingual)
+Find more templates, themes and Jekyll tutorials at [CloudCannon Academy](https://learn.cloudcannon.com/).
 
-> See live demo [here](https://turquoise-rook.cloudvent.net/)
-
-Enjoy folks!
-
-***
+[![Deploy to CloudCannon](https://buttons.cloudcannon.com/deploy.svg)](https://app.cloudcannon.com/register#sites/connect/github/CloudCannon/fur-jekyll-template)
 
 ## Features
 
-* Edit your content in multiple language
-* List product by categories
+* List product with multiple colours and sizes
 * Take payment online using SnipCart
+* Contact form
 * Optimised for editing in [CloudCannon](http://cloudcannon.com/)
+* RSS/Atom feed
+* SEO tags
 * Google Analytics
 
 ## Setup
@@ -30,7 +28,7 @@ Enjoy folks!
 
 ## Develop
 
-This demo was built with [Jekyll](http://jekyllrb.com/) version 3.5.2, but should support newer versions as well.
+Fur was built with [Jekyll](http://jekyllrb.com/) version 4.2.1, but should support newer versions as well.
 
 Install the dependencies with [Bundler](http://bundler.io/):
 
@@ -48,11 +46,6 @@ $ bundle exec jekyll serve
 
 Fur is already optimised for adding, updating and removing products and editing the navigation and footer in CloudCannon.
 
-### Posts
-
-* Add, update or remove a post in the *Posts* collection.
-* Change the defaults when new posts are created in `_posts/_defaults.md`.
-
 ### Navigation
 
 * Exposed as a data file to give clients better access.
@@ -62,9 +55,3 @@ Fur is already optimised for adding, updating and removing products and editing 
 
 * Exposed as a data file to give clients better access.
 * Set in the *Data* / *Footer* section.
-
-## License
-
-The code and templates are MIT licensed.
-
-The icons are from [The Noun Project](https://thenounproject.com/).
