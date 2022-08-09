@@ -1,10 +1,15 @@
 ---
-name: KHai Nguyen
+name: Sacha the Deer
 description_markdown: >-
-  SDep trai
+  Sacha's elegant antlers have never been seen on such a beautiful t-shirt. Wear
+  this majestic beast and feel all your problems float away.
+
+
+
+  Slim Fit, 5oz 100% Cotton T-Shirt.
 garment_type:
-price: '20.00'
-sku: khai
+price: '9.00'
+sku: deer
 stock: 10
 sizes:
   - Small
@@ -14,23 +19,15 @@ sizes:
 styles:
   - name: Black
     color: '#000000'
-    image: /images/products/khai/khai.png
-
-[comment]: <> (  - name: Blue)
-
-[comment]: <> (    color: '#39589e')
-
-[comment]: <> (    image: /images/products/deer/blue.jpg)
-
-[comment]: <> (  - name: Clay)
-
-[comment]: <> (    color: '#9c5145')
-
-[comment]: <> (    image: /images/products/deer/clay.jpg)
-
-[comment]: <> (  - name: Cream)
-
-[comment]: <> (    color: '#dfd3c2')
-
-[comment]: <> (    image: /images/products/deer/cream.jpg)
+    image: /images/products/deer/black.jpg
+  - name: Blue
+    color: '#39589e'
+    image: /images/products/deer/blue.jpg
+  - name: Clay
+    color: '#9c5145'
+    image: /images/products/deer/clay.jpg
+  - name: Cream
+    color: '#dfd3c2'
+    image: /images/products/deer/cream.jpg
 ---
+  
